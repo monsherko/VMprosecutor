@@ -1,0 +1,9 @@
+﻿  prosecutor.cpp
+  test.cpp
+  Generating code
+c:\users\administrator\vmprosecutor\prosecutor.cpp(41): warning C4715: 'prcutor::detect_freespace': not all control paths return a value
+  6 of 16 functions (37.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VMprosecutor.vcxproj -> C:\Users\Administrator\VMprosecutor\x64\Release\VMprosecutor.exe
